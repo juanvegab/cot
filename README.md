@@ -1,0 +1,4 @@
+cot
+===
+
+Test for COT
