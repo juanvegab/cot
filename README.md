@@ -1,4 +1,6 @@
-cot
-===
+COT
 
-Test for COT
+============
+
+
+Some test for COT development.
